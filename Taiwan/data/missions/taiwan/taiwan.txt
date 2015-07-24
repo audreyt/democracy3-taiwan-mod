@@ -1,0 +1,75 @@
+[config]
+currency = "$"
+population = 5407
+economic_cycle_start = 0.65
+min_income = 4000
+max_income = 100000
+min_gdp = 288642
+max_gdp = 2400000
+wealth_mod = 2.5
+starting_debt = 476167
+name  = taiwan
+guiname = "Taiwan"
+names_file = "Taiwan\data\names\taiwan_names.txt"
+term_length = 20
+max_terms = -1
+details_image = "greece_xietanu.jpg"
+description = "Taiwan has a developed capitalist economy that ranks as the 19th-largest in the world by purchasing power parity (PPP), ranks as 18th in the world by gross domestic product (GDP) at purchasing power parity per capita (person), and 24th in nominal GDP of investment and foreign trade."
+flag = "flag_greece_xietanu.jpg"
+apathy = 0.6
+jobtitle = "President"
+GUID = 0
+
+[options]
+
+[stats]
+Population: = "23,437,265 (2015 est.)"
+Size: = "35,883 sq km"
+Life Expectancy: = "79.84 years (2015)"
+Gini(inequality): = "34.2"
+GDP per capita: = "$22,598"
+Poverty: = "1.5% (2012)"
+Ethnicity: = "90.5% Han (2015)"
+National Debt: = "36.5% of GDP (2015)
+Unemployment Rate: = "3.7% (2015)"
+Obesity Rate: = "38.00%"
+
+[policies]
+IncomeTax = 0.49
+CorporationTax = 0.25
+SalesTax = 0.2
+PetrolTax = 0.1
+UnemployedBenefit = 0.1
+StateHealthService = 0.035
+StateSchools = 0.52
+CapitalGainsTax = 0.9
+InheritanceTax = 0.2
+TobaccoTax = 0.4
+AlcoholTax = 0.25
+MortgageTaxRelief = 0.15
+PoliceForce = 1
+MaternityLeave = 0.8
+ArmedPolice = 0.7
+CommunityPolicing = 0.9
+BorderControls = 0.6
+MarriedTaxAllowance = 0.8
+CitizenshipTests = 0.8
+AbortionLaw = 1.0
+LegaliseProstitution = 0.5
+BanSundayShopping = 1.0
+Creationism = 0.25
+RaceDiscriminationAct = 0.8
+BusLanes = 0.25
+AgricultureSubsidies = 0.8
+Narcotics = 0
+JuryTrial = 0.5
+LegalAid = 0.5
+CleanEnergySubsidies = 0.6
+PollutionControls = 0.5
+Recycling = 0.23
+ScienceFunding = 0.3
+FoodStandards = 0.6
+OrganicSubsidy = 0.6
+SchoolPrayers = .75
+StatePensions = 0.25
+StateHousing = 0.3

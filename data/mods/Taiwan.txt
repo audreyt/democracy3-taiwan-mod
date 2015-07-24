@@ -1,0 +1,6 @@
+[config]
+name = "Taiwan"
+path = "Taiwan"
+guiname = "Taiwan, circa 2015"
+author = "Audrey Tang"
+description = "Taiwan, circa 2015."
