@@ -119,4 +119,4 @@ CompulsoryFoodLabelling = 0.8
 ElectricCarsInitiative = 0.05
 GreenElectronicsInitiative = 0.2
 ConsumerRights = 0.2
-FreeSchoolMeals = 1
+FreeSchoolMeals = 0.8
