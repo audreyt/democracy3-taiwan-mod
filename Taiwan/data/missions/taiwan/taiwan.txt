@@ -122,3 +122,4 @@ ConsumerRights = 0.2
 FreeSchoolMeals = 0.8
 FreeEyeTests = 0.6
 ImportTarrifs = 0.0172
+IntelligenceServices = 0.75
