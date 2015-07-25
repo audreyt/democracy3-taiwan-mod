@@ -100,7 +100,6 @@ WorkSafetyLaw = 0.2
 MansionTax = 0.1
 EnterpriseInvestmentScheme = 0.5
 HomeFabricationGrants = 0.01
-Banprivatehealthcare = 0.25
 TourismAdCampaign = 1
 BusinessStartupCampaign = 1
 NationalBusinessCouncil = 0.8
