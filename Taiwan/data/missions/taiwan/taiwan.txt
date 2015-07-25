@@ -125,3 +125,4 @@ ImportTarrifs = 0.0172
 IntelligenceServices = 0.75
 DetentionWithoutTrial = 0.8
 DisabilityBenefit = 0.35
+FreeBusPasses = 0.7
