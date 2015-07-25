@@ -1,6 +1,6 @@
 [config]
 name = "Taiwan"
 path = "Taiwan"
-guiname = "Taiwan, circa 2015"
+guiname = "Taiwan at 2016"
 author = "Audrey Tang"
-description = "Taiwan, circa 2015."
+description = "Taiwan at 2016"

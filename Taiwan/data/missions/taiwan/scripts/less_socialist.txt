@@ -1,0 +1,1 @@
+CreateGrudge(Taiwan,_hidden_,Socialist_freq,-0.15,1,0);
