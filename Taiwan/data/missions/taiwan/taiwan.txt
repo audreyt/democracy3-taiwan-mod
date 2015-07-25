@@ -126,3 +126,4 @@ IntelligenceServices = 0.75
 DetentionWithoutTrial = 0.8
 DisabilityBenefit = 0.35
 FreeBusPasses = 0.7
+HybridCarsInitiative = 0.2
