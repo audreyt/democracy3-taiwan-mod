@@ -1,0 +1,1 @@
+CreateGrudge(Taiwan,_hidden_,PovertyRate,-0.50,1,0);

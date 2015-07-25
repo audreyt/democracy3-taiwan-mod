@@ -1,0 +1,1 @@
+CreateGrudge(Taiwan,_hidden_,InnerCityRiots,0.70,1,0);
