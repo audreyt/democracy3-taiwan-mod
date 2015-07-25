@@ -2,7 +2,7 @@
 
 ## Installation
 
-Just copy everything your Democracy 3 folder.
+Just copy everything in this repository into your Democracy 3 folder.
 
 For Windows users, this will be something like: Program Files (x86)\Democracy 3\
 
