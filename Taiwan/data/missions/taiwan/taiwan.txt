@@ -115,3 +115,5 @@ DeathPenalty = 0.5
 SpaceProgram = 0.1
 SpeedCameras = 0.7
 StemCells = 0.2
+YouthPoliticsCouncil = 0.1
+CompulsoryFoodLabelling = 0.8
