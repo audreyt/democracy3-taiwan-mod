@@ -128,3 +128,4 @@ DisabilityBenefit = 0.35
 FreeBusPasses = 0.7
 HybridCarsInitiative = 0.2
 OrganicSubsidy = 0.15
+RuralDevelopmentGrants = 0.25
