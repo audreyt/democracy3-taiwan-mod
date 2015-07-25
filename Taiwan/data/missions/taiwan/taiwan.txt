@@ -111,3 +111,4 @@ DiplomaticService = 0.25
 CompulsorySchoolSports = 0.10
 BicycleSubsidies = 0.10
 OrganDonation = 0.2
+DeathPenalty = 0.5
