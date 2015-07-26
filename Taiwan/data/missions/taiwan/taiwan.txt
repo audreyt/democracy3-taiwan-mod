@@ -37,7 +37,7 @@ Unemployment Rate: = "3.7% (2015)"
 Obesity Rate: = "38.00%"
 
 [policies]
-IncomeTax = 0.50
+IncomeTax = 0.45
 CorporationTax = 0.10
 SalesTax = 0.1
 PetrolTax = 0.1
@@ -129,3 +129,4 @@ FreeBusPasses = 0.7
 HybridCarsInitiative = 0.2
 OrganicSubsidy = 0.15
 RuralDevelopmentGrants = 0.25
+PropertyTax = 0.1
