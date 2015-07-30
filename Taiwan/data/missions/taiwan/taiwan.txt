@@ -38,7 +38,7 @@ Obesity Rate: = "38.00%"
 
 [policies]
 IncomeTax = 0.45
-CorporationTax = 0.10
+CorporationTax = 0.17
 SalesTax = 0.1
 PetrolTax = 0.1
 CapitalGainsTax = 0.05
